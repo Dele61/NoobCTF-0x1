@@ -1,0 +1,5 @@
+Apple, with 2048 ip address created a network and have given a particular number for bussiness purpose in the year when Harry Potter and the Goblet of Fire was released.All the ip addresses were working good.But after some time they found that their is a problem in their openssh.They tried to fixed it, they observed all the key-type looked same but one was different.can you find the hostnames? it will be helpful.
+
+`Warning:` You can only attempt 3 times.
+
+Point:100
