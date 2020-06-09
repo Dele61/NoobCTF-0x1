@@ -1,0 +1,8 @@
+While performing Man in the Middle attack, I got a secret message from a scientist which can save the world from COVID-19. But unfortunatly I am not able to hear that. I believe that someone with good knowledge of some tools can get the secret message.
+
+`Note:` Online tools also works.
+
+Replace spaces with `_`
+
+Points:50
+
